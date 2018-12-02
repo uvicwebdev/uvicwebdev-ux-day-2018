@@ -10,6 +10,6 @@ A repository that contains the slides for UX Day 2018 - HighTechU
 
 ## File Link
 
-* [UVic Web Dev Club]()
-* [Usability Heuristics]()
-* [Discovering the hacker in U]()
+* [UVic Web Dev Club](UVicWebDevClub.pdf)
+* [Usability Heuristics](UsabilityHeuristics.pdf)
+* [Discovering the hacker in U](DiscoveringTheHackerInU.pdf)
